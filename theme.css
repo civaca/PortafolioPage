@@ -11,7 +11,7 @@
    margin-top: 50px ;
   padding-top: 300px;
   padding-bottom: 300px;
-  background-image: url("https://static.pexels.com/photos/235808/pexels-photo-235808.jpeg")
+  background-image: url("bakground.jpeg");
   
 }
 .portafolio-layout{
@@ -22,8 +22,8 @@
   font-family:Marck Script;
   color:#E0E0E0;
 }
-body{
-  font-family:Saira Condensed
+#bod{
+  font-family:Saira Condensed;
 }
 #menu{
   color:#FFFFFF;
