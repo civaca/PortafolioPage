@@ -1,0 +1,79 @@
+ 
+.about-layout{
+   margin-top: 10px ;
+  padding-top: 70px;
+  padding-bottom: 100px;
+  
+   
+}
+ 
+.home-layout{
+   margin-top: 50px ;
+  padding-top: 300px;
+  padding-bottom: 300px;
+  background-image: url("https://static.pexels.com/photos/235808/pexels-photo-235808.jpeg")
+  
+}
+.portafolio-layout{
+   margin: 1% 1% 1% 6%;
+   padding-bottom: 100px;
+}
+.title{
+  font-family:Marck Script;
+  color:#E0E0E0;
+}
+body{
+  font-family:Saira Condensed
+}
+#menu{
+  color:#FFFFFF;
+}
+#face{
+  border-style:solid;
+  border-radius:50px;
+   border-width: 20px;
+  border-color:#eee	;
+  opacity: 0.99;
+}
+p{
+  font-size: 50px;
+}
+#contact{
+ 
+  width: 220px;
+  margin-left: 6%;
+}
+#foot{
+  font-size: 25px;
+}
+li{
+  font-size: 22px;
+}
+#brand-name{
+  font-size: 22px;
+}
+#porta{
+  width:250px;
+  
+}
+#menu{
+  font-size:20px;
+}
+/* mouse over link */
+
+li.men:hover {
+  display: block;
+   background-color: #606060;
+     }
+ul.man li a.actived:active { 
+  display: block;
+   background-color: #808080;
+     }
+/*scale of image*/
+#tribute-page {
+    -ms-transform: scale(2, 3); /* IE 9 */
+    -webkit-transform: scale(2, 3); /* Safari */
+    transform: scale(2, 3);
+}
+
+
