@@ -1,5 +1,5 @@
 body {
-    font-size: 100% ! important;}
+    font-size: 100% !important;}
 .about-layout{
    margin-top: 20px ;
   padding-top: 70px;
@@ -55,9 +55,9 @@ body {
   font-size: 3.00em;
 }
 #brand-name{
-    font-size: 3.00em;}
+    font-size: 2.7em !important;}
 #menu{
-    font-size:3.00em;}
+    font-size:2.7em !imporant;}
 #porta{
   width:300px;
  
