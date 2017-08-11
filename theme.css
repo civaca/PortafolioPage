@@ -21,7 +21,7 @@
 }
 .title{
   font-family:Marck Script;
-    font-size:500%;
+    font-size:50px;
     margin-top:20%;
   color:#E0E0E0;
 }
@@ -39,7 +39,7 @@
   opacity: 0.99;
 }
 .par{
-  font-size: 180% !important;
+  font-size: 20px !important;
 }
 #contact{
  
@@ -47,20 +47,20 @@
   margin-left: 6%;
 }
 #foot{
-  font-size: 200%;
+  font-size: 20px;
 }
 li{
-  font-size: 190%;
+  font-size: 22px;
 }
 #brand-name{
-  font-size: 220%;
+  font-size: 25px;
 }
 #porta{
   width:25%;
   
 }
 #menu{
-  font-size:200%;
+  font-size:20px;
 }
 /* mouse over link */
 
