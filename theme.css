@@ -34,8 +34,8 @@ body {
 }
 #face{
   border-style:solid;
-  border-radius:50px;
-   border-width: 20px;
+  border-radius:5%;
+   border-width: 2%;
   border-color:#eee	;
   opacity: 0.99;
 }
