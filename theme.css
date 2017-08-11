@@ -1,3 +1,20 @@
+/* mouse over link */
+
+li.men:hover {
+  display: block ;
+   background-color: #606060;
+     }
+ul.man li a.actived:active { 
+  display: block;
+   background-color: #808080;
+     }
+/*scale of image*/
+div.tribute-page:hover  {
+    -ms-transform: scale(1.01, 1.01) ; /* IE 9 */
+    -webkit-transform: scale(1.01, 1.01) ; /* Safari */
+    transform: scale(1.01, 1.01) ;
+}
+
 body {
     font-size: 100% !important;}
 .about-layout{
@@ -62,19 +79,3 @@ body {
   width:200px !important;
  
 
-/* mouse over link */
-
-li.men:hover {
-  display: block;
-   background-color: #606060;
-     }
-ul.man li a.actived:active { 
-  display: block;
-   background-color: #808080;
-     }
-/*scale of image*/
-div.tribute-page:hover {
-    -ms-transform: scale(1.05, 1.05); /* IE 9 */
-    -webkit-transform: scale(1.05, 1.05); /* Safari */
-    transform: scale(1.05, 1.05);
-}
