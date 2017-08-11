@@ -17,7 +17,7 @@ body {
   
 }
 .portafolio-layout{
-   margin: 10px 10px 10px 60px;
+   margin: 10px 10px 10px 5%;
    padding-bottom: 100px;
 }
 .title{
@@ -40,7 +40,7 @@ body {
   opacity: 0.99;
 }
 .par{
-  font-size: 1.56em !important;
+  font-size: 2.0em !important;
 }
 #contact{
  
@@ -52,12 +52,12 @@ body {
 }
 
     li{
-  font-size: 2.00em !important;
+  font-size: 2.1em !important;
 }
 #brand-name{
-    font-size: 2.0em !important;}
+    font-size: 2.1em !important;}
 #menu{
-    font-size:2.0em !important;}
+    font-size:2.1em !important;}
 #porta{
   width:300px;
  
