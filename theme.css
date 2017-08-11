@@ -1,4 +1,5 @@
-
+body {
+    font-size: 100% ! important;}
 .about-layout{
    margin-top: 20px ;
   padding-top: 70px;
@@ -77,15 +78,3 @@ div.tribute-page:hover {
     -webkit-transform: scale(1.05, 1.05); /* Safari */
     transform: scale(1.05, 1.05);
 }
-@media only screen and (min-width: 768px) {
-    li{
-  font-size: 2em;
-}
-#brand-name{
-  font-size: 2em;
-}
-
-#menu{
-  font-size:1.875em;
-    }}
-    
