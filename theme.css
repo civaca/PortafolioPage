@@ -11,7 +11,7 @@
    margin-top: 6.5% ;
   padding-top: 50%;
   padding-bottom: 30%;
-    height: 70%;
+    height: 100%;
   background-image: url("bakground.jpeg");
   
 }
@@ -38,8 +38,8 @@
   border-color:#eee	;
   opacity: 0.99;
 }
-p{
-  font-size: 200%;
+.par{
+  font-size: 180% !important;
 }
 #contact{
  
@@ -50,7 +50,7 @@ p{
   font-size: 200%;
 }
 li{
-  font-size: 220%;
+  font-size: 190%;
 }
 #brand-name{
   font-size: 220%;
