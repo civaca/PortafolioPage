@@ -52,12 +52,12 @@ body {
 }
 
     li{
-  font-size: 2.00em;
+  font-size: 2.00em !important;
 }
 #brand-name{
     font-size: 2.0em !important;}
 #menu{
-    font-size:2.0em !imporant;}
+    font-size:2.0em !important;}
 #porta{
   width:300px;
  
