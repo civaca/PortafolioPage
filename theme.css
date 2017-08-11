@@ -1,5 +1,3 @@
- body {
-     font-size: 100%;} 
 
 .about-layout{
    margin-top: 20px ;
@@ -51,19 +49,18 @@
 #foot{
   font-size: 1.875em;
 }
-li{
-  font-size: 1.875em;
+
+    li{
+  font-size: 3.75em;
 }
 #brand-name{
-  font-size: 1.875em;
-}
+    font-size: 3.75em;}
+#menu{
+    font-size:3.75em;}
 #porta{
   width:300px;
-  
-}
-#menu{
-  font-size:1.875em;
-}
+ 
+
 /* mouse over link */
 
 li.men:hover {
@@ -80,3 +77,15 @@ div.tribute-page:hover {
     -webkit-transform: scale(1.05, 1.05); /* Safari */
     transform: scale(1.05, 1.05);
 }
+@media only screen and (min-width: 768px) {
+    li{
+  font-size: 2em;
+}
+#brand-name{
+  font-size: 2em;
+}
+
+#menu{
+  font-size:1.875em;
+    }}
+    
